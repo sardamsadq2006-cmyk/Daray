@@ -1,0 +1,8 @@
+{
+  "name": "سیستەمی دارایی کەسی | Personal Finance System",
+  "description": "سیستەمی پێشکەوتووی بەڕێوەبردنی دارایی کەسی: خەرجی و داهاتی ڕۆژانە، خەرجییە مانگانەکان، قەرزەکان، پلانی بودجە، ئامانجی پاشەکەوت، هەژمارە بانکییەکان، خوێندنەوەی پسولە بە AI، هێڵکاری ١٠٠٪ و پاراستنی بایۆمەتری.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
